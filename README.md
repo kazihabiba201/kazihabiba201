@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">🚀A dedicated and enthusiastic mobile app developer currently honing my skills in Flutter, hailing from the vibrant tech community of Bangladesh. 🌐</h3>
+<h3 align="left">🚀A dedicated and enthusiastic mobile app developer actively refining my skills in Flutter. 🌐</h3>
 
 ###
 
