@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Hi 👋, I'm Kazi Habiba!</h1>
+<h2 align="left">Hi 👋, I'm Kazi Habiba!</h2>
 
 ###
 
@@ -106,9 +106,7 @@
 </div>
 
 ###
-
 <br clear="both">
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=kazihabiba201&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
