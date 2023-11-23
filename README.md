@@ -10,12 +10,13 @@
 
 ###
 
+
 <h3 align="left">🤹 Skills:</h3>
 
 ###
 
 <p align="left">✅ Flutter Development<br>✅ Dart Programming<br>✅ UI/UX Design<br>✅ Firebase Integration<br>✅ Restful APIs<br>✅ Responsive Design</p>
-
+  
 ###
 
 <h3 align="left">🤝 Collaboration and Teamwork:</h3>
@@ -26,6 +27,29 @@
 
 ###
 
+
+- <p align="left"> <strong> 💬 Ask me about Flutter, Dart, and Android.</strong> </p>
+- <p align="left"> <strong> 📬 Reach out to me at <strong><a href="mailto:kazihabiba125@gmail.com" >kazihabiba125@gmail.com</a> </strong> </strong></p>
+
+###
+
+
+
+<h3 align="left">🔍 Connect with Me:</h3>
+
+###
+
+<p align="left">Feel free to connect with me on LinkedIn to stay updated on my latest projects, collaborations, and insights.</p>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/kazihabiba201/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Profile&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -72,22 +96,6 @@
 
 ###
 
-<h3 align="left">🔍 Connect with Me:</h3>
-
-###
-
-<p align="left">Feel free to connect with me on LinkedIn to stay updated on my latest projects, collaborations, and insights.</p>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/kazihabiba201/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Profile&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
 <h3 align="left">🌐 Let's Collaborate:</h3>
 
 ###
@@ -100,20 +108,16 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kazihabiba201&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false&order=2" height="194" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=kazihabiba201&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="192" alt="stats graph"  />
 </div>
 
 ###
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=kazihabiba201&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=kazihabiba201&locale=en&mode=daily&theme=white&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
-<h3 align="left">📧 Contact:</h3>
 
-###
-
-<p align="left">Feel free to reach out to me at <strong><a href="mailto:kazihabiba125@gmail.com" >kazihabiba125@gmail.com</a> </strong></p>
