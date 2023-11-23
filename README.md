@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">🚀<strong>I'm a dedicated and enthusiastic mobile app developer actively refining my skills in Flutter.</strong> 🌐</p>
+<p align="center">🚀<strong>I'm a dedicated and enthusiastic mobile app developer actively refining my skills in Flutter.</strong></p>
 
 ###
 
