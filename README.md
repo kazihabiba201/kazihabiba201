@@ -2,11 +2,11 @@
 
 ###
 
-<h2 align="left">Hi 👋, I'm Kazi Habiba!</h2>
+<h2 align="center">Hi 👋, I'm Kazi Habiba!</h2>
 
 ###
 
-<h4 align="left">🚀A dedicated and enthusiastic mobile app developer actively refining my skills in Flutter. 🌐</h4>
+<p align="center">🚀<strong>I'm a dedicated and enthusiastic mobile app developer actively refining my skills in Flutter.</strong> 🌐</p>
 
 ###
 
