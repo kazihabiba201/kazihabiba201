@@ -1,7 +1,4 @@
 ![Github cover-02](https://github.com/kazihabiba201/kazihabiba201/assets/72264916/3bf4eeef-35b7-4576-9430-17eedb290433)
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kazihabiba201.kazihabiba201&"  />
-</div>
 
 ###
 
