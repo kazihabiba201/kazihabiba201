@@ -104,7 +104,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Github Stats :</h3>
 
 ###
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kazihabiba201&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=12&theme=dracula&hide_border=false&order=2" height="194" alt="languages graph"  />
