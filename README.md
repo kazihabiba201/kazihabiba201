@@ -2,7 +2,7 @@
 ###
 
 
-<h3 align="left">Hi 👋 My name is Kazi Habiba</h3>
+<h2 align="left">Hi 👋 I'm Kazi Habiba</h2>
 
 ###
 
