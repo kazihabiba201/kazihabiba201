@@ -1,8 +1,10 @@
 ![Github cover-02](https://github.com/kazihabiba201/kazihabiba201/assets/72264916/3bf4eeef-35b7-4576-9430-17eedb290433)
-
+###
+<a href="https://www.github.com/kazihabiba201" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/kazihabiba201?logo=github&style=for-the-badge&color=0891b2&labelColor=22272e" /></a>
 ###
 
-<h2 align="left">Hi 👋, I'm Kazi Habiba!</h2>
+<h2 align="left">Hi 👋 My name is Kazi Habiba</h2>
 
 ###
 
@@ -107,17 +109,11 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kazihabiba201&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=12&theme=dracula&hide_border=false&order=2" height="194" alt="languages graph"  />
+  
+<a href="http://www.github.com/kazihabiba201"><img src="https://github-readme-stats.vercel.app/api?username=kazihabiba201&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true" alt="kazihabiba201's GitHub stats" /></a>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kazihabiba201&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false&order=2" height="194" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=kazihabiba201&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="192" alt="stats graph"  />
-</div>
+<a href="http://www.github.com/kazihabiba201"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kazihabiba201&stroke=ffffff&background=22272e&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-###
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=kazihabiba201&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
 
 
