@@ -1,8 +1,6 @@
 ![Github cover-02](https://github.com/kazihabiba201/kazihabiba201/assets/72264916/3bf4eeef-35b7-4576-9430-17eedb290433)
 ###
-<a href="https://www.github.com/kazihabiba201" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/kazihabiba201?logo=github&style=for-the-badge&color=0891b2&labelColor=22272e" /></a>
-###
+
 
 <h2 align="left">Hi 👋 My name is Kazi Habiba</h2>
 
