@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">✅ Flutter Development<br>✅ Dart Programming<br>✅ UI/UX Design<br>✅ Firebase Integration<br>✅ Restful APIs<br>✅ Responsive<br>✅ GetX Design</p>
+<p align="left">✅ Flutter Development<br>✅ Dart Programming<br>✅ UI/UX Design<br>✅ Firebase Integration<br>✅ Restful APIs<br>✅ Responsive Design<br>✅ GetX </p>
   
 ###
 
