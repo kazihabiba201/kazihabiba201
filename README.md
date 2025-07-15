@@ -12,6 +12,9 @@
   <a href="mailto:kazihabiba126@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=Email&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="Gmail logo" />
   </a>
+   <a href="https://www.hackerrank.com/profile/kazihabiba125" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=Profile&color=2EC866&logoColor=white&style=for-the-badge" height="25" alt="HackerRank logo" />
+  </a>
 </div>
 
 ###
