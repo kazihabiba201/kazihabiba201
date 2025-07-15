@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Kazi Habiba</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" /> I'm Kazi Habiba</h1>
 
 ###
 
