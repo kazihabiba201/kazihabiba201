@@ -1,53 +1,32 @@
-![Github cover-02](https://github.com/kazihabiba201/kazihabiba201/assets/72264916/3bf4eeef-35b7-4576-9430-17eedb290433)
-###
-
-
-<h2 align="left">Hi 👋 I'm Kazi Habiba</h2>
+<h1 align="center">Hi 👋 I'm Kazi Habiba</h1>
 
 ###
 
-<p align="left">🚀<strong>I'm a dedicated and enthusiastic mobile app developer actively refining my skills in Flutter.</strong></p>
+<p align="center"><strong>Flutter Developer | Dart | Python | Django REST Framework</strong></p>
 
 ###
-
-
-<h3 align="left">🤹 Skills:</h3>
-
-###
-
-<p align="left">✅ Flutter Development<br>✅ Dart Programming<br>✅ UI/UX Design<br>✅ Firebase Integration<br>✅ Restful APIs<br>✅ Responsive Design<br>✅ GetX </p>
-  
-###
-
-<h3 align="left">🤝 Collaboration and Teamwork:</h3>
-
-###
-
-<p align="left">My approach is based on collaboration and teamwork, as I love dynamic circumstances where different teams share ideas and contribute to collective achievement.</p>
-
-###
-
-
-- <p align="left"> <strong> 💬 Ask me about Flutter, Dart, and Android.</strong> </p>
-- <p align="left"> <strong> 📬 Reach out to me at <strong><a href="mailto:kazihabiba125@gmail.com" >kazihabiba125@gmail.com</a> </strong> </strong></p>
-
-###
-
-
-
-<h3 align="left">🔍 Connect with Me:</h3>
-
-###
-
-<p align="left">Feel free to connect with me on LinkedIn to stay updated on my latest projects, collaborations, and insights.</p>
-
-###
-
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/kazihabiba201/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Profile&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Profile&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn logo" />
+  </a>
+  <a href="mailto:kazihabiba126@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=Email&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="Gmail logo" />
   </a>
 </div>
+
+###
+<p align="center">
+  <a href="http://www.github.com/kazihabiba201">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazihabiba201&stroke=ffffff&background=22272e&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  </a>
+</p>
+
+
+<h3 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> What's New?</h3>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Keyboard.webp" alt="Keyboard" width="25" height="25" /> Exploring Mobile & App Dev · <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="25" height="25" /> Learning BloC · <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Lady%20Beetle.webp" alt="Lady Beetle" width="25" height="25" /> Daily Problem Solving  
+</p>
 
 ###
 <h3 align="left">🛠 Language and tools</h3>
@@ -96,22 +75,30 @@
 
 ###
 
-<h3 align="left">🌐 Let's Collaborate:</h3>
+<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Mirror%20Ball.webp" alt="Mirror Ball" width="25" height="25" /> Let's Collaborate:</h3>
 
 ###
 
-<p align="left">I thrive on building connections with fellow developers, industry professionals, and enthusiasts alike. Join me in a journey of idea exchange and together, let's delve into the dynamic realm of app development. Your perspectives and insights are valuable, and I'm eager to create something extraordinary through our collaboration.</p>
+<p align="left">I love connecting with developers and tech enthusiasts. Let’s share ideas and build something amazing together in the world of app development!</p>
 
 ###
 
 <h3 align="left">🔥   My Github Stats :</h3>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="http://www.github.com/kazihabiba201">
+          <img src="https://github-readme-stats.vercel.app/api?username=kazihabiba201&show_icons=true&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true" alt="kazihabiba201's GitHub stats" />
+        </a>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kazihabiba201&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=12&theme=dracula&hide_border=false" height="194" alt="Top languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-###
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kazihabiba201&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=12&theme=dracula&hide_border=false&order=2" height="194" alt="languages graph"  />
-  
-<a href="http://www.github.com/kazihabiba201"><img src="https://github-readme-stats.vercel.app/api?username=kazihabiba201&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true" alt="kazihabiba201's GitHub stats" /></a>
-
-<a href="http://www.github.com/kazihabiba201"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kazihabiba201&stroke=ffffff&background=22272e&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
 
