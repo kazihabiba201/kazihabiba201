@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center"><strong>Flutter Developer | Dart | Python | Django REST Framework</strong></p>
+<p align="center"><strong>Flutter | Dart | Python | Django REST Framework</strong></p>
 
 ###
 <div align="center">
