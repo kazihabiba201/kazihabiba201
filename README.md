@@ -80,8 +80,6 @@
 
 <h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Mirror%20Ball.webp" alt="Mirror Ball" width="25" height="25" /> Let's Collaborate:</h3>
 
-###
-
 <p align="left">I love connecting with developers and tech enthusiasts. Let’s share ideas and build something amazing together in the world of app development!</p>
 
 ###
