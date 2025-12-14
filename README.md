@@ -82,23 +82,6 @@
 
 <p align="left">I love connecting with developers and tech enthusiasts. Let’s share ideas and build something amazing together in the world of app development!</p>
 
-###
-
-<h3 align="left">🔥   My Github Stats :</h3>
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="http://www.github.com/kazihabiba201">
-          <img src="https://github-readme-stats.vercel.app/api?username=kazihabiba201&show_icons=true&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true" alt="kazihabiba201's GitHub stats" />
-        </a>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kazihabiba201&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=12&theme=dracula&hide_border=false" height="194" alt="Top languages" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 
 
